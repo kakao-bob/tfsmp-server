@@ -12,6 +12,9 @@ Run:
 python Server.py
 ```
 
+Or use [Docker container](https://hub.docker.com/repository/docker/kakaobob/tfsmp-server).
+
+
 ## Config
 Change `config.json`
 
